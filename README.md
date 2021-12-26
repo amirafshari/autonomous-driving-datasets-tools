@@ -1,2 +1,2 @@
 # BDD100K
-Tools for Berkeley Deep Drive dataset.
+Tools for autonomous driving datasets, such as Berkeley Deep Drive, KITTI, etc.
