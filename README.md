@@ -1,2 +1,2 @@
-# bdd100k
-Tools for BDD100K dataset.
+# BDD100K
+Tools for Berkeley Deep Drive dataset.
